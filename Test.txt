@@ -40,4 +40,4 @@
 
 THIS IS A HTTPS CODE SET ON OUR GITHUB!!!!
 
-URL IS:
+URL IS: https://raw.githubusercontent.com/Nathan-ma/SEMIC/master/Test.txt
